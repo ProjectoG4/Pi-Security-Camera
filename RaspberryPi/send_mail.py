@@ -9,9 +9,9 @@ import imghdr
 os.system('sudo rm -rf /var/lib/motion/*')
 
 # Replace the values in the following variables with your email and SMTP server details
-sender_email = 'projectsmx2@outlook.com'
-sender_password = 'projecto123'
-recipient_email = 'projectosmx2@gmail.com'
+sender_email = ''
+sender_password = ''
+recipient_email = ''
 smtp_server = 'smtp.outlook.com'
 smtp_port = 587
 
