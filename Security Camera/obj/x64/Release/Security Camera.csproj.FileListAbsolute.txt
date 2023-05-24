@@ -1,0 +1,31 @@
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\avcodec-57.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\avdevice-57.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\avfilter-6.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\avformat-57.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\avutil-55.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\postproc-54.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\swresample-2.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\swscale-4.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.dll.config
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Security Camera.exe.config
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Security Camera.exe
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.Video.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.Video.FFMPEG.x64.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Guna.UI2.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Renci.SshNet.dll
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.xml
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.Video.xml
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Accord.Video.FFMPEG.x64.xml
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\bin\x64\Release\Renci.SshNet.xml
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security Camera.csproj.AssemblyReference.cache
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security Camera.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security_Camera.Login.resources
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security_Camera.Main.resources
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security_Camera.Properties.Resources.resources
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security Camera.csproj.GenerateResource.cache
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security Camera.csproj.CoreCompileInputs.cache
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security Camera.csproj.CopyComplete
+C:\Users\ZEEE\Desktop\Security Camera\Security Camera\Security Camera\obj\x64\Release\Security Camera.exe
