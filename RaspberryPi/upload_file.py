@@ -5,8 +5,8 @@ import requests
 os.system('sudo rm -rf /var/lib/motion/*')
 
 directory = '/var/lib/motion/'  # Replace with the path to your directory
-folder_id = 'd8fe559f-18c2-4d56-a094-0b57100f0ffa'  # Replace with your gofile.io folder ID
-token_api = 'QB6w9NUDJXPSzH6gJolXIphEJm8Mzcwa' # Replace with your gofile.io token API
+folder_id = ''  # Replace with your gofile.io folder ID
+token_api = '' # Replace with your gofile.io token API
 
 # Get the list of JPG files in the directory
 jpg_files = [f for f in os.listdir(directory) if f.endswith('.jpg')]
