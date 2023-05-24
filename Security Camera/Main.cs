@@ -34,9 +34,9 @@ namespace Security_Camera
         private SshClient sshClient;
 
         public static api KeyAuthApp = new api(
-            name: "Security Camera",
-            ownerid: "capXpQfmp5",
-            secret: "631a6d2a9142706da09dea478d0a48e51f5edf57a4762045b63952ed604491aa",
+            name: "put your product name",
+            ownerid: " put your ownerid",
+            secret: "put your secret",
             version: "1.0"
         );
 
@@ -45,7 +45,7 @@ namespace Security_Camera
             InitializeComponent();
             KeyAuthApp.init();
             StartStreaming();
-            sshClient = new SshClient("projectg4-41525.portmap.host", 41525, "admin", "admin");
+            sshClient = new SshClient("put your raspberry pi | ssh ip", 22, "user", "pass");
         }
 
         private void License()
@@ -77,9 +77,9 @@ namespace Security_Camera
 
         void StartStreaming()
         {
-            stream = new MJPEGStream("https://picamera.fun/");
-            stream.Login = "admin";
-            stream.Password = "admin";
+            stream = new MJPEGStream("https://yourdomain.com/");
+            stream.Login = "user for motion";
+            stream.Password = "password for motion";
 
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(stream.Source);
             request.PreAuthenticate = true;
