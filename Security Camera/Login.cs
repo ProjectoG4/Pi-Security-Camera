@@ -17,7 +17,7 @@ namespace Security_Camera
 {
     public partial class Login : Form
     {
-        private const string LoginUrl = "https://projectsecuritycamera.site/camera.php";
+        private const string LoginUrl = "https://yourwordpress.com/login.php";
         private bool dragging = false;
         private Point dragCursorPoint;
         private Point dragFormPoint;
