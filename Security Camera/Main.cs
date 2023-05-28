@@ -428,7 +428,7 @@ namespace Security_Camera
                         sshClient.Connect();
                     }
 
-                    sshClient.RunCommand($"python3 tts.py \"{speech}\"");
+                    sshClient.RunCommand($"python3 send_tts.py \"{speech}\"");
                 });
             }
 
@@ -450,7 +450,7 @@ namespace Security_Camera
                     sshClient.Connect();
                 }
 
-                sshClient.RunCommand($"python3 tts.py \"{speech}\"");
+                sshClient.RunCommand($"python3 send_tts.py \"{speech}\"");
             });
         }
     }
