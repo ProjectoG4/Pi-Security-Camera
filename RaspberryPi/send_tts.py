@@ -3,7 +3,6 @@ from gtts import gTTS
 import pygame
 
 text = sys.argv[1]
-
 tts = gTTS(text=text, lang="es-ES")
 tts.save("hello.mp3")
 
